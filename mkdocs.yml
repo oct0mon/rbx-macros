@@ -1,0 +1,4 @@
+site_name: Roblox Macros
+nav:
+  - Home: index.md
+  - Macros: macros.md
